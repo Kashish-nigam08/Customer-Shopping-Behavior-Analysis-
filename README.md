@@ -20,8 +20,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. Clone the repository
 
-git clone https://github.com/Kashish-nigam08/Customer-Shopping-Behavior-Analysis-.git
-cd Customer-Shopping-Behavior-Analysis-
+    git clone https://github.com/Kashish-nigam08/Customer-Shopping-Behavior-Analysis-.git
+    cd Customer-Shopping-Behavior-Analysis-
 
 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
@@ -35,15 +35,15 @@ cd Customer-Shopping-Behavior-Analysis-
 
 3. Connection to SQL Database
 
-  Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+     Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
-  Create a database in SQL
+     Create a database in SQL
 
-  Run Python code to load data into SQL database
+     Run Python code to load data into SQL database
 
-  Open customer_behavior_sql_queries.sql
+     Open customer_behavior_sql_queries.sql
 
-  Answer Business Questions using SQL Queries
+     Answer Business Questions using SQL Queries
 
 4. Connect the SQL Database to Power BI
 
